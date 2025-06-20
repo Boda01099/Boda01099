@@ -1,5 +1,6 @@
 
 
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://i.postimg.cc/NMf4vzcG/145921068-copy-1-1.png" width="120" alt="Boda GitHub Avatar" />
@@ -28,8 +29,8 @@
 ### 🚀 Backend Frameworks & Languages
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
    <img src="https://i.postimg.cc/90PZ4PVg/express.png" height="40" alt="express.js" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
 </p>
 
 
