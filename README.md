@@ -15,12 +15,14 @@
 
 
 <!-- ABOUT -->
+
 ## 👨‍💻 About Me
 
 🎯 **2+ years** of backend development experience in real-world production systems  
-🔐 Specialized in **secure**, **scalable**, and **well-documented** REST APIs  
+🔐 Specialized in building **secure**, **scalable**, and **well-documented** REST APIs  
 🧱 I focus on architecture, performance, and clean maintainable code  
-📬 Currently **available** for freelance / remote opportunities  
+🏅 Contributed to open-source projects, optimizing MongoDB performance  
+📬 Currently **available** for freelance / remote opportunities
 
 
 <!-- TECH STACK -->
@@ -31,6 +33,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
    <img src="https://i.postimg.cc/90PZ4PVg/express.png" height="40" alt="express.js" />
+
 </p>
 
 
@@ -76,4 +79,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodymohamed01099&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+
+## 📫 Contact Me
+
+-   **Email**: [bodymohamed01099@example.com](mailto:bodymohamed01099@gmail.com)
+-   **LinkedIn**: [linkedin.com/in/bodymohamed01099](https://linkedin.com/in/bodymohamed01099)
+-   **Portfolio**: [bodymohamed01099.github.io](https://bodymohamed01099.github.io/)
 ---
