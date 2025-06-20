@@ -16,7 +16,7 @@
 <!-- ABOUT -->
 ## 👨‍💻 About Me
 
-🎯 **4+ years** of backend development experience in real-world production systems  
+🎯 **2+ years** of backend development experience in real-world production systems  
 🔐 Specialized in **secure**, **scalable**, and **well-documented** REST APIs  
 🧱 I focus on architecture, performance, and clean maintainable code  
 📬 Currently **available** for freelance / remote opportunities  
@@ -27,11 +27,9 @@
 
 ### 🚀 Backend Frameworks & Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
    <img src="https://i.postimg.cc/90PZ4PVg/express.png" height="40" alt="express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
 </p>
 
 
