@@ -83,6 +83,4 @@
 
 ## 📫 Contact Me
 
--   **Email**: [bodymohamed01099@example.com](mailto:bodymohamed01099@gmail.com)
--   **LinkedIn**: [linkedin.com/in/bodymohamed01099](https://linkedin.com/in/bodymohamed01099)
--   **Portfolio**: [bodymohamed01099.github.io](https://bodymohamed01099.github.io/)
+-   **Email**: [bodymohamed01099@gmail.com](mailto:bodymohamed01099@gmail.com)
