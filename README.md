@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bodymohamed01099&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Boda01099&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -72,12 +72,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodymohamed01099&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bodymohamed01099&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boda01099&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Boda01099&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodymohamed01099&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boda01099&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
